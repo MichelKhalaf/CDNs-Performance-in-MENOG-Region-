@@ -1,9 +1,10 @@
 Team Members:
 =============
-Michel Khalaf  
-Miriam Turk  
-Yara Yammine  
-Mariella El Jreidy  
+* [Michel Khalaf](https://github.com/MichelKhalaf)
+* [Yara Yammine](https://github.com/YaraYammine)
+* [Marianne Jbeily](https://github.com/mariannejbeyli)
+* [Mariella El Jreidy](https://github.com/MariellaJreidy)  
+* [Miriam Turk ](https://github.com/miriamturk)  
 
 # CDNs Performance in MENOG Region
 
