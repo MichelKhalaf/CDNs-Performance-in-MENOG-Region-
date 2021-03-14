@@ -1,3 +1,10 @@
+Team Members:
+=============
+Michel Khalaf  
+Miriam Turk  
+Yara Yammine  
+Mariella El Jreidy  
+
 # CDNs Performance in MENOG Region
 
 Several studies present analyzes of the performance of CDNs on an international scale. CDNs (Content Delivery Network) are content delivery networks that not only provide a faster experience but also help prevent sites from crashing during heavy congestion or even increased traffic. In our project, we seek to do this performance study on a more limited scope, in the Middle East region, in the group of Middle East Network Operators Group (MENOG).
